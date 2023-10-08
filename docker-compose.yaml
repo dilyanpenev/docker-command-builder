@@ -1,0 +1,3 @@
+services:
+  docker-command-builder:
+    image: ${DESKTOP_PLUGIN_IMAGE}
